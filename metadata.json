@@ -1,0 +1,6 @@
+{
+  "name": "Kitchen Hearth - Family Touch Dashboard",
+  "description": "An always-on portrait family dashboard for vertical kitchen touchscreens, featuring live time, weather, monthly calendar with Google Calendar sync, Muslim prayer times with countdown, family tasks, YouTube, and online radio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
